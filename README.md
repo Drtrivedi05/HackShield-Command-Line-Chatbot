@@ -27,7 +27,7 @@ Make sure you have Python installed on your system. If not, download and install
 ### Steps to Install
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/HackShield-Chatbot.git
+   git clone https://github.com/Drtrivedi05/HackShield-Command-Line-Chatbot.git
    ```
 2. Navigate to the project directory:
    ```sh
